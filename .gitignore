@@ -1,6 +1,3 @@
 # Ignore
 .git
 .idea
-.sass-cache
-psd/
-/node_modules
